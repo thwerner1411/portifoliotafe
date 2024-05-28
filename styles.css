@@ -1,0 +1,107 @@
+/* body > * {
+    border: 1px solid black;
+} */
+
+.custom-icons > span {
+    background-color: white;
+    border-radius: 100px;
+    padding: 35px;
+ margin: 10px;
+}
+
+
+.index-section {
+
+    background-color: black;
+    color: red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: red;
+}
+
+body {
+    background-color: black;
+    color: red;
+}
+
+footer { 
+    background-color: black
+    
+
+}
+
+
+
+
+.contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.contact-form h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.contact-form .form-group {
+    margin-bottom: 20px;
+}
+
+.contact-form label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="password"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.contact-form button {
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: white;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background-color: #0056b3;
+}
+
+
+footer {
+    background: black
+    
+} 
+
+.gallery {
+    display: flex;
+}
+
+.image {
+    flex: 1;
+    margin: 10px;
+}
+
+.image img {
+    width: 100%;
+    height: auto;
+}
+
+body {
+    font-family: "Open Sans", Arial, sans-serif;
+}
+
+
